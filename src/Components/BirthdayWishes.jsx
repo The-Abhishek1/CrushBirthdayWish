@@ -18,7 +18,7 @@ function BirthdayWishes({ reload }) {
       console.log(wishes);
     };
     getWishes();
-  }, []);
+  });
 
   return (
     <div className="relative w-full grid place-content-center p-10 pt-2">
