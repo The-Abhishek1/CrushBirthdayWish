@@ -39,7 +39,7 @@ function App() {
           </div>
         </div>
       ) : (
-        <div className="md:p-10 m-0 sm:p-3 min-h-[100vh] bg-gradient-to-b from-pink-200 from-10% via-rose-200 via-30% to-rose-500 to-100% ...">
+        <div className="md:p-10 m-0 pb-20 sm:p-3 min-h-[100vh] bg-gradient-to-b from-pink-200 from-10% via-rose-200 via-30% to-rose-500 to-100% ...">
           {confetti ? (
             <Confetti
               tweenDuration={110000}
