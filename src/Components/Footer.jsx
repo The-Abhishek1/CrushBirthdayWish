@@ -7,6 +7,7 @@ import video3 from "../bindu/videos/_love__factory_-26-03-2024-0001.mp4";
 import video4 from "../bindu/videos/dn_editz_d56_-26-03-2024-0001.mp4";
 import video5 from "../bindu/videos/radha_krishn8496-26-03-2024-0001.mp4";
 
+//Main Function 
 function Footer() {
   const [show, setShow] = useState(false);
   const [firstNo, setFirstNo] = useState(false);
