@@ -3,6 +3,7 @@ import photo from "../Emojis/teddy.jpg";
 import { getDocs, collection } from "firebase/firestore";
 import { db, storage } from "../FireBase/FireBase";
 
+//Main Function 
 function BirthdayWishes() {
   //State for wishes
   const [wishes, setWishes] = useState([]);
