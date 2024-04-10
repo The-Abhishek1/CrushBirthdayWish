@@ -5,6 +5,7 @@ import { useForm } from "react-hook-form";
 import { ref, uploadBytes, getDownloadURL } from "firebase/storage";
 import BirthdayWishes from "./BirthdayWishes";
 
+//Main Function 
 function Form() {
   const [spinner, setSpinner] = useState(false);
   const [imageUpload, setImageUpload] = useState(null);
