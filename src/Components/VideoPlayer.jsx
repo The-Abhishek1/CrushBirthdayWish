@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import video1 from "../bindu/videos/gsrikanthgowda-14-02-2024-0002.mp4";
+import video1 from "../bindu/videos/WhatsApp Video 2024-04-11 at 22.52.37.mp4";
 
 import photo from "../bindu/images/IMG-20240215-WA0006.jpg";
 function VideoPlayer() {
